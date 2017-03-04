@@ -43,6 +43,7 @@ int main() {
             *(s+len-2)='\0';
             printf("%s",s);
         }
+        //hello guys
 
     }
     return 0;
