@@ -43,8 +43,8 @@ int main() {
             *(s+len-2)='\0';
             printf("%s",s);
         }
+        //hello guys
 
     }
-    //sushil khanchi @smvdu.ac.in
     return 0;
 }
