@@ -45,6 +45,5 @@ int main() {
         }
 
     }
-    //sushil khanchi @smvdu.ac.in
     return 0;
 }
