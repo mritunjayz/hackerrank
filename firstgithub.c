@@ -20,7 +20,7 @@ int main() {
             *(s+0)='0';
             *(s+1)='0';
             *(s+len-2)='\0';
-            printf("%s",s);
+            printf("sum=%s",s);
         }
         else
             {
@@ -44,7 +44,7 @@ int main() {
             printf("%s",s);
         }
 
-    }
+    }//malik
     //sushil khanchi @smvdu.ac.in
     return 0;
 }
