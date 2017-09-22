@@ -45,7 +45,7 @@ int main() {
             printf("%s",s);
         }
 
-    }//malik
-    //sushil khanchi @smvdu.ac.in
+    }
+    //sK
     return 0;
 }
